@@ -17,7 +17,10 @@ download and unzip into the SoapUI/bin folder, this will place files in the unde
 
 ### Features
 
-1. Adds a "Save Response" menu option to the HTTP, REST and SOAP TestSteps - prompting you to save the last received response to a file.
+
+#### Save Response
+Adds a "Save Response" menu option to the HTTP, REST and SOAP TestSteps - prompting you to save the last received response to a file.
+Can come in handy if you need to save binary responses (images, pdf:s, etc).
 
 ### Build it yourself
 
